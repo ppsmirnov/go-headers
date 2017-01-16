@@ -1,0 +1,9 @@
+{
+	"ImportPath": "github.com/ppsmirnov/go-headers",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v77",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
+}
